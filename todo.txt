@@ -11,18 +11,18 @@ Currying implementation
 
 
 React
-Lifecycle
-Hooks (useState, useEffect, useMemo, useCallback, useReducer)
-React.Memo and ShouldComponentUpdate
-Redux vs Context
-Diffing algorithm and Virtual DOM in React
-Why do we use keys in React
+Lifecycle-------
+Hooks (useState, useEffect, useMemo, useCallback, useReducer)----
+React.Memo and ShouldComponentUpdate-----
+Redux vs Context---
+Diffing algorithm and Virtual DOM in React-----
+Why do we use keys in React-----
 Higher order component
-Rules of making customHooks
-Prop drilling
-Lifiting state up
-React portals
-Why we should not update the state directly
+Rules of making customHooks---
+Prop drilling-------
+Lifiting state up---
+React portals---
+Why we should not update the state directly---
 React fiber (Bonus)
 
 Redux
