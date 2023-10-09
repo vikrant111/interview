@@ -1,0 +1,46 @@
+JS
+Event loop
+Diff between let, const and var
+Hoisting
+Closures
+This keyword in JS
+Arrow function vs normal function
+Bind, call, apply
+Array methods and their polyfill
+Currying implementation
+
+
+React
+Lifecycle
+Hooks (useState, useEffect, useMemo, useCallback, useReducer)
+React.Memo and ShouldComponentUpdate
+Redux vs Context
+Diffing algorithm and Virtual DOM in React
+Why do we use keys in React
+Higher order component
+Rules of making customHooks
+Prop drilling
+Lifiting state up
+React portals
+Why we should not update the state directly
+React fiber (Bonus)
+
+Redux
+What is Reducer
+Why do we use redux-thunk, can you write/tell its implementation
+
+HTML
+Block vs Inline elements
+
+DOM manipulation
+querySelector
+datasets
+
+CSS
+Positions
+px vs rem vs em
+Flex box vs Grid
+CSS Specificity
+flex directions
+justify-content vs justify-self
+align-items vs align-self
